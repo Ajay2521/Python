@@ -10,7 +10,7 @@
 
 print("Hello all....!")
 
-print("This is an simple python program which is created only by using simple print statement....")
+print("This is an simple python program which is created only by using simple print statement...")
 
 #NOTE: In python program Semicolon ( ; ) is not used to mention the line break
 
