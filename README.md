@@ -3,6 +3,12 @@ In this major python concept has been covered.
 
 ### All about getting start with Python.
 
+<p align="center">
+
+<img width="300" height="300" src="https://user-images.githubusercontent.com/60919132/86328423-b0e3cc00-bc3c-11ea-9e3d-18cb5e9bb645.png" >
+
+</p>
+
 #### What is Python Programming ? 
 
 - Python is a Simple , high level and Object Oriented programming language which is created by **Guido Van Rossum**
@@ -102,4 +108,82 @@ To compile and execute the python script file.
 
 ### Before moving directly to the code , follow this README file patter to make this python tutorial usefull.
 
-#### BASICS of Python
+## BASICS of Python
+
+<p align="center">
+
+<img width="200" height="200" src="https://user-images.githubusercontent.com/60919132/86329259-cd343880-bc3d-11ea-925b-0ba037a42259.jpg" >
+
+</p>
+
+
+1) [Simple Python](https://github.com/maayon2521/Python/blob/master/BASICS/Simple%20Python.py) - In this simple python program and its structure has been explained.
+
+2) [Variable](https://github.com/maayon2521/Python/blob/master/BASICS/Variable.py) - In this Variable concept in python has been explained.
+
+3) [Single Value to Multiple Variable](https://github.com/maayon2521/Python/blob/master/BASICS/Single%20Value%20to%20Multiple%20Variables.py) - In this how Single Value can be assigned to Multiple Variable in Python has been explained.
+
+4) [Multiple Value to Multiple Variable](https://github.com/maayon2521/Python/blob/master/BASICS/Multiple%20Value%20to%20Multiple%20Variable.py) - In this how Multiple Value can be assigned to Multiple Variable in Python has been explained.
+
+5) [Number](https://github.com/maayon2521/Python/blob/master/BASICS/Number.py) - In this Number concept in Python has been explained.
+
+6) [String](https://github.com/maayon2521/Python/blob/master/BASICS/String.py) - In this String Datatype in Python has been explained.
+
+7) [List](https://github.com/maayon2521/Python/blob/master/BASICS/List.py) - In this List Datatype in Python has been explained.
+
+8) [Tuple](https://github.com/maayon2521/Python/blob/master/BASICS/Tuple.py) - In this Tuple Datatype in Python has been explained.
+
+9) [Dictionary](https://github.com/maayon2521/Python/blob/master/BASICS/Dictionary.py) - In this Dictionary Datatype in Python has been explained.
+
+10) [Arithmetic Operator](https://github.com/maayon2521/Python/blob/master/BASICS/Arithmetic%20Operators.py) - In this Arithmetic Operators in Python has been explained.
+
+11) [Comparison Operator](https://github.com/maayon2521/Python/blob/master/BASICS/Comparison%20Operators.py) - In this Comparison Operators in Python has been explained.
+
+12) [Assignment Operator](https://github.com/maayon2521/Python/blob/master/BASICS/Assignment%20Operators.py) - In this Assignment Operators in Python has been explained.
+
+13) [Bitwise Operator](https://github.com/maayon2521/Python/blob/master/BASICS/Bitwise%20Operators.py) - In this Bitwise Operators in Python has been explained.
+
+14) [Logical Operator](https://github.com/maayon2521/Python/blob/master/BASICS/Logical%20Operators.py) - In this Logical Operators in Python has been explained.
+
+15) [Membership Operator](https://github.com/maayon2521/Python/blob/master/BASICS/Membership%20Operators.py) - In this Membership Operators in Python has been explained.
+
+16) [Identity Operator](https://github.com/maayon2521/Python/blob/master/BASICS/Identity%20Operators.py) - In this Identity Operators in Python has been explained.
+
+17) [Operator Precedence](https://github.com/maayon2521/Python/blob/master/BASICS/Operator%20Precedence.py) - In this Operators Precedence in Python has been explained.
+
+18) [if statement](https://github.com/maayon2521/Python/blob/master/BASICS/if%20Statement.py) - In this "if conditional statement" in Python has been explained.
+
+19) [if else statement](https://github.com/maayon2521/Python/blob/master/BASICS/if%20else.py) - In this "if else conditional statement" in Python has been explained.
+
+20) [if elif statement](https://github.com/maayon2521/Python/blob/master/BASICS/if%20elif.py) - In this "if elif conditional statement" in Python has been explained.
+
+21) [Nested if statement](https://github.com/maayon2521/Python/blob/master/BASICS/Nested%20if.py) - In this "Nested if conditional statement" in Python has been explained.
+
+22) [Nested if else statement](https://github.com/maayon2521/Python/blob/master/BASICS/Nested%20if%20else.py) - In this "Nested if else conditional statement" in Python has been explained.
+
+23) [Nested if elif statement](https://github.com/maayon2521/Python/blob/master/BASICS/Nested%20if%20elif.py) - In this "Nested if elif conditional statement" in Python has been explained.
+
+24) [for loop](https://github.com/maayon2521/Python/blob/master/BASICS/for%20loop.py) - In this "for loop" in Python has been explained.
+
+25) [for loop for list](https://github.com/maayon2521/Python/blob/master/BASICS/for%20loop%20for%20list.py) - In this "for loop for list" in Python has been explained.
+
+26) [for loop for tuple](https://github.com/maayon2521/Python/blob/master/BASICS/for%20loop%20for%20tuple.py) - In this "for loop for tuple" in Python has been explained.
+
+27) [range]() - In this "range" in Python has been explained using for loop.
+
+28) [Nested for loop](https://github.com/maayon2521/Python/blob/master/BASICS/Nested%20for%20loop.py) - In this "Nested for loop" in Python has been explained.
+
+29) [for loop with else](https://github.com/maayon2521/Python/blob/master/BASICS/for%20loop%20with%20else.py) - In this "for loop with else" in Python has been explained.
+
+30) [while loop](https://github.com/maayon2521/Python/blob/master/BASICS/While%20loop.py) - In this "while loop" in Python has been explained.
+
+31) [Infinite while loop](https://github.com/maayon2521/Python/blob/master/BASICS/Infinite%20while%20loop.py) - In this "Infinite while loop" in Python has been explained.
+
+32) [while loop with else](https://github.com/maayon2521/Python/blob/master/BASICS/while%20loop%20with%20else.py) - In this "while loop with else" in Python has been explained.
+
+33) [break](https://github.com/maayon2521/Python/blob/master/BASICS/break.py) - In this "break control statement" in Python has been explained.
+
+34) [continue](https://github.com/maayon2521/Python/blob/master/BASICS/continue.py) - In this "continue control statement" in Python has been explained.
+
+35) [pass](https://github.com/maayon2521/Python/blob/master/BASICS/pass.py) - In this "pass control statement" in Python has been explained.
+
