@@ -106,9 +106,9 @@ To compile and execute the python script file.
 - This python tutorial is divided as BASIC , INTERMEDIATE , ADVANCE  
 
 
-### Before moving directly to the code , follow this README file patter to make this python tutorial usefull.
+### Before moving directly to the code , follow this README file pattern to make this python tutorial usefull.
 
-## BASICS of Python
+## BASICS LEVEL :
 
 <p align="center">
 
@@ -188,3 +188,5 @@ To compile and execute the python script file.
 35) [pass](https://github.com/maayon2521/Python/blob/master/BASICS/pass.py) - In this "pass control statement" in Python has been explained.
 
 36) [User input data](https://github.com/maayon2521/Python/blob/master/BASICS/User%20input%20data.py) - In this dynamic allocation of user given input data concept has been explained.
+
+## INTERMEDIATE LEVEL :
