@@ -190,3 +190,29 @@ To compile and execute the python script file.
 36) [User input data](https://github.com/maayon2521/Python/blob/master/BASICS/User%20input%20data.py) - In this dynamic allocation of user given input data concept has been explained.
 
 ## INTERMEDIATE LEVEL :
+
+<p align="center">
+
+<img width="200" height="200" src="https://user-images.githubusercontent.com/60919132/86704885-37b5f180-c00d-11ea-9ba7-404a5a708b6e.jpg" >
+
+</p>
+
+### STRING DATATYPE :
+
+1) [String](https://github.com/maayon2521/Python/blob/master/INTERMEDIATE/String/String.py) - In this Simple String datatype Creation has been explained.
+
+2) [Index of String](https://github.com/maayon2521/Python/blob/master/INTERMEDIATE/String/Index%20of%20String.py) - In this index concept in String datatype has been explained.
+
+3) [Slice in String](https://github.com/maayon2521/Python/blob/master/INTERMEDIATE/String/Slice%20in%20String.py) - In this Slicing the String has been explained.
+
+4) [Negative slice in String](https://github.com/maayon2521/Python/blob/master/INTERMEDIATE/String/Negative%20Slice%20in%20String.py) - In this Negative index and slice of String datatype has been explained.
+
+5) [Reassigning String](https://github.com/maayon2521/Python/blob/master/INTERMEDIATE/String/Reassigning%20String.py) - In this Reassigning string value has been explained.
+
+6) [Deleting String](https://github.com/maayon2521/Python/blob/master/INTERMEDIATE/String/Deleting%20String.py) - In this Deleting a string has been explained.
+
+7) [String Operation](https://github.com/maayon2521/Python/blob/master/INTERMEDIATE/String/String%20Operation.py) -  In this majorly used String concept has been explained.
+
+8) [Escape Sequence](https://github.com/maayon2521/Python/blob/master/INTERMEDIATE/String/Escape%20Sequence.py) - In this Escape Sequence has been explained.
+
+9) [format( )](https://github.com/maayon2521/Python/blob/master/INTERMEDIATE/String/format().py) - In this format( ) method in string has been explained.
