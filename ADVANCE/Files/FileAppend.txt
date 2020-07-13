@@ -1,0 +1,3 @@
+Python is an demanding program now a days.
+It is simple to learn and very effective.
+Its an power packed programming language used for DataScience.
