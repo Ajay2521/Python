@@ -309,7 +309,7 @@ To compile and execute the python script file.
 
 <p align="center">
 
-<img width="200" height="200" src="https://user-images.githubusercontent.com/60919132/87275849-f3c46000-c4d6-11ea-9474-ef82abf69f7f.png">
+<img width="300" height="300" src="https://user-images.githubusercontent.com/60919132/87275849-f3c46000-c4d6-11ea-9474-ef82abf69f7f.png">
 
 </p>
 
