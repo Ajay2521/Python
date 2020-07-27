@@ -1,0 +1,20 @@
+Python makes easy to use date and time function.
+
+date is not a datatype in python.
+
+But date object can be used by using different module like date, time and calendar.
+
+The datetime calsses in python has classsified as six main classes they are.
+
+1) date - It consists of year, month and day.
+
+2) time - It gives out the perfect time by assuming everyday has 24 hrs * 60 min *  60 sec.
+
+3) datetime - It is a grouping of date and time which consist of year, month, day, hour, minute, second, microsecond, and tzinfo.
+
+4) timedelta - It is used difference between two dates, time or datetime instances to microsecond resolution.
+
+5) tzinfo = It is used to return time zion information object.
+
+6) timezone - It is the class that implements the tzinfo abstract base class.
+
