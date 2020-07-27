@@ -1,0 +1,95 @@
+In short regular expression is know as regex.
+
+This regex is used to defined as the sequence of characters which are used to search for a particular pattern in a string.
+
+The module "re" is used for working with the regex in python.
+
+The re module throws an exception if there is some error while using the regular expression.
+
+There are certain function for regex they are :
+
+1) findall = It returns a list which contains all the matches of a pattern in a string.
+
+2) match = It is used to find the match between a string and an regex. It returns true if a match is found in a string , otherwise it returns false.
+
+3) search = It returns the match object if there is a match found in the string.
+
+4) split = It returns a list which the string has been split in each match.
+
+5) sub = used to replace one or more matches in the string.
+
+
+REGEX EXPRESSION :
+
+Usually the regex can be formed by using the mix of 
+
+# meta-characters.
+
+# special sequence.
+
+# sets.
+
+META CHARACTERS :
+
+[ ] = Used to represent the set of characters.
+
+\ = Used to represent special characters.
+
+. = Used to signals that any character is present at some specific place.
+
+^ = Used to represent pattern present at the beginning of the string.
+
+$ = Used to represent pattern present at the end of the string.
+
+* = Used to represent zero or more occurrences of a pattern in the string.
+
++ = Used to represent one or more occurrences of a pattern in the string.
+
+{} = Used to represent specific number of occurrences of a pattern in the string.
+
+| = Used to represent either this or that character is present.
+
+() = Used for grouping.
+
+SPECIAL SEQUENCE :
+
+\A = Used to return a match if the specified character are present at the beginning of the string.
+
+\b = Used to return a match if the specified character are present at the beginning or end of the string.
+
+\B = Used to return a match if the specified character are present at the beginning of the string but not at the end.
+
+\d = Used to return a match if the string contains digits [ 0 - 9 ]
+
+\D = Used to return a match if the string doesn't contains digits [ 0 - 9 ]
+
+\s = Used to return a match if the string contains any white space character.
+
+\S = Used to return a match if the string doesn't contains any white space character.
+
+\w = Used to return a match if the string contains any word character.
+
+\W = Used to return a match if the string doesn't contains any word character.
+
+\Z = Used to return a match if the specified characters are at the end of the string.
+ 
+SETS :
+
+Sets is defined as a group of characters given inside a square brackets.
+
+[arn] = Used to return a match if the string contains any of the specified characters in the set.
+
+[a-n] = Used to return a match if the string contains any of the characters between a to n.
+
+[^arn] = Used to return a match if the string contains the characters except a, r and n.
+
+[012] = Used to return a match if the string contains any of the specified digits.
+
+[0-9] = used to return a match if the string contains any digit between 0 and 9.
+
+[0-5]
+[0-9] = Used to return a match if the string contains any digit between 00 and 59.
+
+[a-zA-Z] = Used to return a match if the string contains any alphabet both lower-case or upper-case.
+
+
